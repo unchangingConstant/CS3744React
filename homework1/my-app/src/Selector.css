@@ -1,0 +1,6 @@
+#selector {
+    display: grid;
+    grid-template-columns: max-content max-content; 
+    grid-template-rows: max-content;
+    grid-row-gap: 10px;
+}
